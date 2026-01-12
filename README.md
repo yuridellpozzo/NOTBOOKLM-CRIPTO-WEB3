@@ -1,7 +1,4 @@
 # NOTBOOKLM-CRIPTO-WEB3
-Aqui está uma proposta de texto organizada e profissional para o seu arquivo **README.md**, consolidando os pontos principais da nossa conversa baseada nas fontes:
-
----
 
 # 🚀 Estratégias de Cripto e Web3 Gaming (Visão 2026)
 
